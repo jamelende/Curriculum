@@ -1,4 +1,6 @@
-
+|<b>Profesor</b>    |   |
+|:-:|:-:|
+| <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Alfonso Meléndez](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/HojaDeVida.html)</b>   | **[Universidad Javeriana](https://www.javeriana.edu.co/inicio)**  <br>  <br> **[Escuela Col de Ingeniería Bogotá, Colombia](http://www.escuelaing.edu.co)** <br>  <br> <b> 2024</b> |
 
 
 <br>
