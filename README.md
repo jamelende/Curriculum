@@ -33,7 +33,7 @@ Educación Matemática con Tecnología ([GeoGebra](https://www.geogebra.org/))
   </br>
 
 Matematico Universidad de los Andes  1978-1984.
-[Diploma](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/Anexos/2.1 Diplomas/DiplomaPregradoMat.pdf)
+[Diploma](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/Anexos/2.1Diplomas/DiplomaPregradoMat.pdf)
 
 Ingeniero De Sistemas y Computación Universidad de los Andes  1978- 1984.
 [Diploma](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/Anexos/2.1 Diplomas/DiplomaPregradoSist.pdf)
