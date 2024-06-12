@@ -3,22 +3,7 @@
 | <img src="https://avatars.githubusercontent.com/u/55796430?v=4"  width=170pt > <br> <b>[Alfonso Meléndez](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/HojaDeVida.html)</b>   | **[Universidad Javeriana](https://www.javeriana.edu.co/inicio)**  <br>  <br> **[Escuela Col de Ingeniería Bogotá, Colombia](http://www.escuelaing.edu.co)** <br>  <br> <b> 2024</b> |
 
 
-<br>
-</br>
-
-
-
-
-<center> ![](http://profesores.is.escuelaing.edu.co/~amelendez/HojaDeVida/Imagenes/Foto2022.png){width=30%} </center>
-
-
-
-<br>
-</br>
-
-
-#  {.tabset .tabset-pills}
-Un cordial saludo, trabajo en la [Escuela Colombiana de Ingeniería](https://www.escuelaing.edu.co/es/) en el [Departamento de Matemáticas](https://www.escuelaing.edu.co/es/programas/matematicas/). Soy Ingeniero de Sistemas y Matemático de la [Universidad de los Andes](https://uniandes.edu.co/), con Maestría en Ingeniería de Sistemas  de la misma Universidad.
+Un cordial saludo, trabajo en la [Universidad Javeriana](https://www.javeriana.edu.co/inicio) y en la [Escuela Colombiana de Ingeniería](https://www.escuelaing.edu.co/es/) Soy Ingeniero de Sistemas y Matemático de la [Universidad de los Andes](https://uniandes.edu.co/), con Maestría en Ingeniería de Sistemas  de la misma Universidad.
  <br>
 </br>
 
